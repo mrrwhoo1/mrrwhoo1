@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hello viewer! 
+## my name is Maron H. Chilomo and i am a 2nd year computer science student at the time of creating this (2026-02-21)
 
-<!--
-**mrrwhoo1/mrrwhoo1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me:
+- Ubuntu user
+- Loves coding (even tho sometimes its a pain in the ass)
+- Computer science student
+- Aspiring developer
+- Zambian
+- enrolled at Cavendish university
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Goals
+- Learning html, css, javascrip
+- still learning python
+- still learning c++
+- still learning flutter
+
+## Social Links:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/mrr_whoo?igsh=MTBhM2dlODYxdDMweg==)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maron-chilomo)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/maron.chilomo)
+
+## Randoms 
+![Maron's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrrwhoo1&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mrrwhoo1&layout=compact&theme=radical)
+
+## Current projects 
