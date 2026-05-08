@@ -1,8 +1,8 @@
 # Hello viewer! 
-## my name is Maron H. Chilomo and i am a 2nd year computer science student at the time of creating this (2026-02-21)
+## my name is Maron H. Chilomo and i am a computer science student at the university of Cavendish.
 
 ## About me:
-- Ubuntu user
+- Fedora user
 - Loves coding (even tho sometimes its a pain in the ass)
 - Computer science student
 - Aspiring developer
@@ -11,7 +11,8 @@
 
 
 ## Current Goals
-- Learning html, css, javascrip
+- making my own programing language :)
+- Making Free alternatives to paid apps :)
 - still learning python
 - still learning c++
 - still learning flutter
