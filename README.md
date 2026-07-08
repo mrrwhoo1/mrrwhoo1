@@ -2,7 +2,7 @@
 ## my name is Maron H. Chilomo and i am a computer science student at the university of Cavendish.
 
 ## About me:
-- Fedora user
+- Debian user
 - Loves coding (even tho sometimes its a pain in the ass)
 - Computer science student
 - Aspiring developer
