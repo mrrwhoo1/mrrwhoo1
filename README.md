@@ -22,8 +22,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maron-chilomo-36b5293b2)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/maron.chilomo)
 
-## Randoms 
-![Maron's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrrwhoo1&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mrrwhoo1&layout=compact&theme=radical)
+## Random Stats
+![Maron's GitHub metrics](./metrics.svg)
 
 ## Current projects 
