@@ -23,7 +23,7 @@
 - 🆓 Creating **free, local-first alternatives** to paid desktop apps
 - 🐍 Leveling up in **Python**
 - ⚙️ Going deeper into **C++** (procedural style, low-level programming)
-- 🦋 Learning **Flutter/Dart** — check out [`stardart`](https://github.com/mrrwhoo1/stardart), my Dart mini-project sandbox
+- 🦋 Learning **Flutter/Dart** — check out [`dart-lab`](https://github.com/mrrwhoo1/dart-lab), my Dart mini-project sandbox
 
 ---
 
