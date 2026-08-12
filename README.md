@@ -9,21 +9,21 @@
 
 ### 🪐 About Me
 
-- 🎓 Computer Science student at **Cavendish University**
-- 🐧 Daily driver: **Debian Linux**
-- 🌌 Building a night-sky themed portfolio & love for astronomy
-- 💻 Aspiring developer, one bug at a time (even when it's a pain in the ass 😅)
-- 🧠 Currently deep in DSA and i Have a deep love for low level programming.(maybe one day i will be good at it.)
+-  Computer Science student at **Cavendish University**
+-  Daily driver: **Debian Linux**
+-  Building a night-sky themed portfolio & love for astronomy
+-  Aspiring developer, one bug at a time (even when it's a pain in the ass 😅)
+-  Currently deep in DSA and i Have a deep love for low level programming.(maybe one day i will be good at it.)
 
 ---
 
 ### 🎯 Current Goals
 
-- 🛠️ Designing and building my **own programming language** (lexer → parser → AST → evaluator, all in C++)
-- 🆓 Creating **free, local-first alternatives** to paid desktop apps
-- 🐍 Leveling up in **Python**
-- ⚙️ Going deeper into **C++** (procedural style, low-level programming)
-- 🦋 Learning **Flutter/Dart** — check out [`dart-lab`](https://github.com/mrrwhoo1/dart-lab), my Dart mini-project sandbox
+-  Designing and building my **own programming language** (lexer → parser → AST → evaluator, all in C++)
+-  Creating **free, local-first alternatives** to paid desktop apps
+-  Leveling up in **Python**
+-  Going deeper into **C++** (procedural style, low-level programming)
+-  Learning **Flutter/Dart** — check out [`dart-lab`](https://github.com/mrrwhoo1/dart-lab), my Dart mini-project sandbox
 
 ---
 
